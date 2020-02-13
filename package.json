@@ -1,0 +1,19 @@
+{
+  "name": "w2d-f4r",
+  "version": "1.0.0",
+  "description": "because a11y isn't that a8e sometimes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irob466/w2d-f4r.git"
+  },
+  "author": "Ian Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irob466/w2d-f4r/issues"
+  },
+  "homepage": "https://github.com/Irob466/w2d-f4r#readme"
+}
