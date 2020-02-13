@@ -1,6 +1,6 @@
 # w2d f4r
 
-For when your quest for a11y has a few c7g n8s that you need to d4e.
+For when your quest for a11y has a few c7g n8s that you need to d4e. **Caveat**: Your n7n needs to be a word in the dictionary. Sorry fake word users.
 
 ## How Do I Do That?
 
