@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Irob466/w2d-f4r/issues"
   },
-  "homepage": "https://github.com/Irob466/w2d-f4r#readme"
+  "homepage": "https://github.com/Irob466/w2d-f4r#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
