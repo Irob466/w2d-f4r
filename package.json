@@ -18,5 +18,10 @@
   "homepage": "https://github.com/Irob466/w2d-f4r#readme",
   "dependencies": {
     "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "@babel/polyfill": "^7.8.3",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-svelte": "^4.0.6"
   }
 }

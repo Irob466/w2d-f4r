@@ -1,5 +1,5 @@
 const axios = require("axios");
-const [, , input] = process.argv;
+const [, , ...input] = process.argv;
 
 const API_ENDPOINT = "https://api-portal.dictionary.com/dcom/list/";
 
@@ -11,7 +11,7 @@ const findWords = async numer => {
     return null;
   }
   const offset = 0;
-  const limit = 10000;
+  const limit = 16000;
   const letter = numer[0];
   const lastLetter = numer.slice(-1);
   const length = numer.slice(1, -1);
@@ -32,4 +32,4 @@ const findWords = async numer => {
   }
 };
 
-findWords(input);
+input.forEach(d => findWords(d));
